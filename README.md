@@ -22,6 +22,6 @@ O sistema bancário desenvolvido permite operações básicas como:
 **Extrato:** O usuário pode visualizar um extrato detalhado com todas as transações realizadas durante o uso do sistema.
 
 # Tecnologias Utilizadas
-**Python 3.x:** Linguagem de programação principal do projeto.
+**Python 3.9.13:** Linguagem de programação principal do projeto.
 Estruturas de controle (condicionais e loops).
 Funções e manipulação de dados.
